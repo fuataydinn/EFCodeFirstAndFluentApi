@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstBasics", "CodeFirstBasics\CodeFirstBasics.csproj", "{C8CADDDF-3B64-44F5-91ED-C40113ACF5C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstFluentApi", "CodeFirstFluentApi\CodeFirstFluentApi.csproj", "{B881DCA4-1C80-4FEA-8AFC-EA331852CAF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8CADDDF-3B64-44F5-91ED-C40113ACF5C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8CADDDF-3B64-44F5-91ED-C40113ACF5C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8CADDDF-3B64-44F5-91ED-C40113ACF5C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8CADDDF-3B64-44F5-91ED-C40113ACF5C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B881DCA4-1C80-4FEA-8AFC-EA331852CAF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B881DCA4-1C80-4FEA-8AFC-EA331852CAF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B881DCA4-1C80-4FEA-8AFC-EA331852CAF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B881DCA4-1C80-4FEA-8AFC-EA331852CAF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4CDDEE9-3BBE-4324-A03C-390694CC86EC}
+	EndGlobalSection
+EndGlobal
