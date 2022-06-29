@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mI7WpUotiFLppKktCSAiffgyXpSNqOQGi1I7hIZRGLEKF8s9QMRs9MjO3zf6kgpSL7ov9zt5l3L8P1gJFGd5HA==",
+  "dgSpecHash": "waDx1gjBXL+0zctiretaEz+wlSTZFSXyxgR7+Ejf41QPErDgml00kmnCfW0TwOM2PbxsN2W/KbwrYahTuHtoyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\faydn\\source\\repos\\Entity Framework Code First\\CodeFirstBasics\\CodeFirstBasics.csproj",
+  "projectFilePath": "C:\\Users\\faydn\\OneDrive\\Masaüstü\\Projects\\EfCodeFirstFluentApi\\EFCodeFirstAndFluentApi\\CodeFirstBasics\\CodeFirstBasics.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\faydn\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\faydn\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

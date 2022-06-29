@@ -5766,18 +5766,18 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\faydn\\source\\repos\\Entity Framework Code First\\CodeFirstFluentApi\\CodeFirstFluentApi.csproj",
+      "projectUniqueName": "C:\\Users\\faydn\\OneDrive\\Masaüstü\\Projects\\EfCodeFirstFluentApi\\EFCodeFirstAndFluentApi\\CodeFirstFluentApi\\CodeFirstFluentApi.csproj",
       "projectName": "CodeFirstFluentApi",
-      "projectPath": "C:\\Users\\faydn\\source\\repos\\Entity Framework Code First\\CodeFirstFluentApi\\CodeFirstFluentApi.csproj",
+      "projectPath": "C:\\Users\\faydn\\OneDrive\\Masaüstü\\Projects\\EfCodeFirstFluentApi\\EFCodeFirstAndFluentApi\\CodeFirstFluentApi\\CodeFirstFluentApi.csproj",
       "packagesPath": "C:\\Users\\faydn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\faydn\\source\\repos\\Entity Framework Code First\\CodeFirstFluentApi\\obj\\",
+      "outputPath": "C:\\Users\\faydn\\OneDrive\\Masaüstü\\Projects\\EfCodeFirstFluentApi\\EFCodeFirstAndFluentApi\\CodeFirstFluentApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\faydn\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0-windows"
+        "net5.0-windows7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
